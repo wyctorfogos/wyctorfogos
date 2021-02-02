@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/wyctorfogos/wyctorfogos/blob/main/PlumpHollowFrog-small.gif)
 <!-I'm electrical engineering and a researcher student 
 **wyctorfogos/wyctorfogos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
