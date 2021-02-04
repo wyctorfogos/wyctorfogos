@@ -5,4 +5,4 @@
 - I'm from ES - Brazil.
 
 - 🔭 I’m currently working on machine learning projects ...
-- 🌱 I’m currently learning about different types of scientific research and to resolve diffeten problems.
+- 🌱 I’m currently learning about different types of scientific research and to resolve different problems, in special using neural networks.
