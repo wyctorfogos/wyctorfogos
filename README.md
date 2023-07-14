@@ -4,7 +4,7 @@
 
 Olá! Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Meu objetivo é criar soluções elegantes e eficientes para problemas complexos, utilizando as mais recentes tecnologias e ferramentas.
 
-Com uma formação em engenharia elétrica e especialização em Data Science, tenho experiência em projetos de desenvolvimento de software em várias linguagens, incluindo Python, Java e C++. Minhas habilidades em áreas como Machine Learning, Visão Computacional e Deep Learning permitem-me trabalhar em projetos desafiadores e aplicar meu conhecimento para resolver problemas do mundo real.
+Com uma formação em engenharia elétrica e especialização em Data Science, tenho experiência em projetos de desenvolvimento de software em várias linguagens, incluindo Python e C++. Minhas habilidades em áreas como Machine Learning, Visão Computacional e Deep Learning permitem-me trabalhar em projetos desafiadores e aplicar meu conhecimento para resolver problemas do mundo real.
 
 No meu GitHub, você encontrará alguns dos meus projetos mais recentes e interessantes, incluindo soluções em Machine Learning, automação de processos, análise de dados e muito mais. Meu trabalho é caracterizado por um enfoque colaborativo e uma abordagem focada em resultados.
 
