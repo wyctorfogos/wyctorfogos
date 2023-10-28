@@ -14,6 +14,7 @@ Artigos publicados e/ou aceitos:
 
 - Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study
 - A diagnostic room for lower limb amputee based on virtual reality and an intelligent space This article proposes a virtual reality (VR) system for diagnosing and rehabilitating lower limb amputees. A virtual environment and an intelligent space are the basis of the proposed solution. Pablo P. e Silva, Wyctor F. da Rocha, Luiza E.V.N. Mazzoni, Rafhael M. de Andrade, Antônio Bento, Mariana Rampinelli,Douglas Almonfrey. A diagnostic room for lower limb amputee based on virtual reality and an intelligent space, Artificial Intelligence in Medicine, 2023, 102612, ISSN 0933-3657, https://doi.org/10.1016/j.artmed.2023.102612.
+- Super-Resolution GAN Improving YOLO’s Performance Benchmark (2022-2023/IEEE)
 - W. Fogos Da Rocha et al., "The use of Convolutional Neural Network and StarRGB technique for gait movements recognition in remote physiotherapy," 2021 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), 2021, pp. 01-06, doi: 10.1109/ICECCME52200.2021.9590936.
 - SISTEMA AUTOMÁTICO DE CONTROLE DE ILUMINAÇÃO PÚBLICA COM BASE EM SENSORES DE PRESENÇA E BLUETOOTH (DOI:10.22533/at.ed.3732123024)
 
