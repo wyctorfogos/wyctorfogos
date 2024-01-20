@@ -15,7 +15,7 @@
 #### 🛠️ Habilidades Técnicas
 - **Linguagens de Programação**: Python, C++, JavaScript.
 - **Áreas de Expertise**: Machine Learning, Visão Computacional, Deep Learning, Automação. 
-- **Ferramentas e Tecnologias**: Selenium, TensorFlow, OpenCV, PyTorch, NodeJS, Express, Docker, FastAPI, gRPC, KAFKA, Dahua API, MLFlow, PowerBI.
+- **Ferramentas e Tecnologias**: Selenium, TensorFlow, OpenCV, PyTorch, NodeJS, Express, Docker, FastAPI, gRPC, RabbitMQ, KAFKA, Dahua API, MLFlow, PowerBI, PostgreSQL.
 
 #### 📫 Como me Contatar
 - 📧 Email: [wyctor.fogos@gmail.com](mailto:wyctor.fogos@gmail.com)
