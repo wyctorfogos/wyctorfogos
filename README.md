@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![](https://github.com/wyctorfogos/wyctorfogos/blob/main/PlumpHollowFrog-small.gif)
 
-Certainly! Based on the suggestions I provided, here is how you might revise and enhance your GitHub readme:
-
 ---
 
 ### Olá! 👋
