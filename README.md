@@ -1,8 +1,3 @@
-### Hi there 👋
-![](https://github.com/wyctorfogos/wyctorfogos/blob/main/PlumpHollowFrog-small.gif)
-
----
-
 ### Olá! 👋
 **Sou Wyctor Fogos da Rocha, um Desenvolvedor de Software Apaixonado por Tecnologia e Inovação**
 
