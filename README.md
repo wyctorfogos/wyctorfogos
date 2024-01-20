@@ -20,6 +20,3 @@
 #### 📫 Como me Contatar
 - 📧 Email: [wyctor.fogos@gmail.com](mailto:wyctor.fogos@gmail.com)
 - 🔗 LinkedIn: [Link do seu perfil no LinkedIn](https://linkedin.com/in/wyctor-fogos-da-rocha-2426b1174)
-
-#### 🌐 Versão em Inglês
-- Para uma versão em inglês deste README, [clique aqui](Link para a versão em inglês).
