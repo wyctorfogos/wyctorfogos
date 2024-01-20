@@ -11,6 +11,7 @@ No meu GitHub, você encontrará alguns dos meus projetos mais recentes e intere
 Se você está procurando um desenvolvedor de software talentoso com habilidades técnicas sólidas e experiência em projetos desafiadores, não hesite em entrar em contato comigo. Estou sempre procurando novas oportunidades para aplicar minhas habilidades e aprender com novos desafios.
 
 Artigos publicados e/ou aceitos: 
+- Gestão de estoques. AMORIM, Vitor dos Santos; ROCHA, Wyctor Fogos da. DOI: 10.22533/at.ed.323232411. Link: https://www.atenaeditora.com.br/catalogo/ebook/gestao-de-estoques.
 - Revisão bibliográfica do uso de inteligência artificial na indústria nacional brasileira e regional do Espírito Santo (link:https://repositorio.ifes.edu.br/handle/123456789/3734)
 - Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study
 - A diagnostic room for lower limb amputee based on virtual reality and an intelligent space This article proposes a virtual reality (VR) system for diagnosing and rehabilitating lower limb amputees. A virtual environment and an intelligent space are the basis of the proposed solution. Pablo P. e Silva, Wyctor F. da Rocha, Luiza E.V.N. Mazzoni, Rafhael M. de Andrade, Antônio Bento, Mariana Rampinelli,Douglas Almonfrey. A diagnostic room for lower limb amputee based on virtual reality and an intelligent space, Artificial Intelligence in Medicine, 2023, 102612, ISSN 0933-3657, https://doi.org/10.1016/j.artmed.2023.102612.
