@@ -1,5 +1,5 @@
 ### Olá! 👋
-**Sou Wyctor Fogos da Rocha, um Desenvolvedor de Software Apaixonado por Tecnologia e Inovação**
+**Sou Wyctor Fogos da Rocha, um Desenvolvedor Backend Apaixonado por Tecnologia e Inovação**
 
 #### 🌟 Sobre Mim
 - 🚀 Apaixonado por resolver problemas complexos através de tecnologia.
