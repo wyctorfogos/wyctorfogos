@@ -7,6 +7,8 @@
 - 🧠 Habilidades aprimoradas em Machine Learning, Visão Computacional e Deep Learning.
 
 #### 💻 Projetos em Destaque
+- **[Análise de sistemas: introdução ao funcionamento de sistemas](https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas)**: Fundamentos da Análise de Sistemas: Exploramos os princípios básicos da análise de sistemas, desde a definição de sistema até a importância da modelagem e da documentação.
+- **[Introdução ao planejamento e controle da produção: conceitos e ferramentas](https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas)**: O presente trabalho consiste em um material de apoio à disciplina de Planejamento e Controle da Produção para o curso técnico de Logística, atuando como um suporte para as atividades a serem desenvolvidas em sala de aula. 
 - **[Uso de IA no na construção civil](https://ieeexplore.ieee.org/document/10459929)**: Paper: Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study.
 - **[Gestão de Estoques](https://www.atenaeditora.com.br/catalogo/ebook/gestao-de-estoques)**: Uma abordagem inovadora para otimização de estoques.
 - **[Uso de IA na Indústria Brasileira](https://repositorio.ifes.edu.br/handle/123456789/3734)**: Revisão bibliográfica focada na aplicação de IA na indústria brasileira.
