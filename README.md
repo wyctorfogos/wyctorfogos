@@ -19,8 +19,12 @@
   
 #### 🛠️ Habilidades Técnicas
 - **Linguagens de Programação**: Python, C++, JavaScript.
-- **Ferramentas de Machine Learning**: Machine Learning, Visão Computacional, Deep Learning, Automação. 
-- **DevOps**: Selenium, TensorFlow, OpenCV, PyTorch, NodeJS, Express, Docker, FastAPI, gRPC, RabbitMQ, KAFKA, Dahua API, MLFlow, PowerBI, PostgreSQL.
+- **Ferramentas de Machine Learning**: Machine Learning, Visão Computacional, Deep Learning, Automação, Selenium, TensorFlow, OpenCV, PyTorch, MLFlow
+- **DevOps**: Docker, Nginx.
+- **Backend Development**: NodeJS, Express, FastAPI, gRPC, RabbitMQ, KAFKA.
+- **Banco de dados**: SQL, MySQL, PostgreSQ, MongoDB, Redis.
+- **Visão computacional**: OpenCV, matplotlib, PIL
+- **Análise de dados**: PowerBI, Pandas, Sklearn.
 
 #### 📫 Como me Contatar
 - 📧 Email: [wyctor.fogos@gmail.com](mailto:wyctor.fogos@gmail.com)
