@@ -12,7 +12,15 @@
 - 📫 How to reach me **wyctor.fogos@gmail.com**
 
 - ⚡ Fun fact **In English my name can be translated as "fire from the rock"**
-- 
+<h3 align="left">Projects:</h3>
+<ul>
+  <li>
+    <b><a>Clothes detection: A simple service based on docker support to to detect differents types of clothes as request to it's REST API </a></b>
+  </li>
+  <li>
+    <b><a>Chatbot: A simple service based on docker support to put on air the chatbot service </a></b>
+  </li>
+</ul>
 <h3 align="left">Academic Projects:</h3>
 <ul>
   <li>
