@@ -24,7 +24,7 @@
     <b><a href="https://youtu.be/5-tAZy62vCY">Safe vestiments detection: A security supervisor tool to detect if the worker is safe or not</a></b>
   </li>
    <li>
-    <b><a href="https://youtu.be/5-tAZy62vCY">JWT authentication API: A security API service to get, register (on a PostgreSQL service) and invalidate the JWT token.</a></b>
+    <b><a>JWT authentication API: A security API service to get, register (on a PostgreSQL service) and invalidate the JWT token.</a></b>
    </li>
 </ul>
 <h3 align="left">Academic Projects:</h3>
