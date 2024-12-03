@@ -15,11 +15,17 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li>
-    <b><a>Clothes detection: A simple service based on docker support to to detect differents types of clothes as request to it's REST API </a></b>
+    <b><a>Clothes detection: A simple service based on docker support to detect different types of clothes as requested by its REST API </a></b>
   </li>
   <li>
     <b><a>Chatbot: A simple service based on docker support to put on air the chatbot service </a></b>
   </li>
+  <li>
+    <b><a href="https://youtu.be/5-tAZy62vCY">Safe vestiments detection: A security supervisor tool to detect if the worker is safe or not</a></b>
+  </li>
+   <li>
+    <b><a href="https://youtu.be/5-tAZy62vCY">JWT authentication API: A security API service to get, register (on a PostgreSQL service) and invalidate the JWT token.</a></b>
+   </li>
 </ul>
 <h3 align="left">Academic Projects:</h3>
 <ul>
