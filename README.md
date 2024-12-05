@@ -26,6 +26,9 @@
    <li>
     <b><a>JWT authentication API: A security API service to get, register (on a PostgreSQL service) and invalidate the JWT token.</a></b>
    </li>
+  <li>
+    <a>License-Plate-Reader: An image pre-processer to read and recognize license plate's digits</a>
+  </li>
 </ul>
 <h3 align="left">Academic Projects:</h3>
 <ul>
