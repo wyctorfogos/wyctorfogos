@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wyctor</h1>
-<h3 align="center">A passionate backend developer, Data scientistt and Data analyst from Brazil</h3>
+<h3 align="center">A passionate backend developer, Data scientist and Data analyst from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyctorfogos&label=Profile%20views&color=0e75b6&style=flat" alt="wyctorfogos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyctorfogos" alt="wyctorfogos" /></a> </p>
 
-- 🌱 I’m currently learning **Multimodals models, computer vision, AI and medicine**
+- 🌱 I’m currently learning **Multimodals models, computer vision, AI, and medicine**
 
-- 💬 Ask me about **python, javascript, AI, ML, tensorflow, pytorch, computer vision**
+- 💬 Ask me about **python, javascript, AI, ML, TensorFlow, PyTorch, and computer vision**
 
 - 📫 How to reach me **wyctor.fogos@gmail.com**
 
