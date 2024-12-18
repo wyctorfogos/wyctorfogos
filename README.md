@@ -29,6 +29,9 @@
   <li>
     <a>License-Plate-Reader: An image pre-processer to read and recognize license plate's digits</a>
   </li>
+  <list>
+    <a href="https://github.com/wyctorfogos/Interface_test_Crack_concrete_using_.git"> Concrete crack recognition: Concrete crack's model classifier and interface</a>
+  </list>
 </ul>
 <h3 align="left">Academic Projects:</h3>
 <ul>
