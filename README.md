@@ -29,9 +29,13 @@
   <li>
     <a>License-Plate-Reader: An image pre-processer to read and recognize license plate's digits</a>
   </li>
-  <list>
+  <li>
     <a href="https://github.com/wyctorfogos/Interface_test_Crack_concrete_using_.git"> Concrete crack recognition: Concrete crack's model classifier and interface</a>
-  </list>
+  </li>
+  <li>
+     <a href="https://github.com/wyctorfogos/Crop-faces-using-MTCNN"> Crop human faces using MTCNN: a micros-service (docker) to detect, crop, and process the faces</a>
+  </li>
+  
 </ul>
 <h3 align="left">Academic Projects:</h3>
 <ul>
