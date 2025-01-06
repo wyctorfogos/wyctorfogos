@@ -74,7 +74,7 @@
 <a href="https://kaggle.com/wyctor fogos da rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wyctor fogos da rocha" height="30" width="40" /></a>
 <a href="https://instagram.com/wyctor.fogos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyctor.fogos" height="30" width="40" /></a>
 <a> Discord username: wyctor.fogos </a>
-<a href="https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=pt-BR" align="center" src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg> Google Academic </a>
+<a href="https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=pt-BR" align="center" src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg> Google Academic  alt="wyctor.fogos" </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact" alt="wyctorfogos" /></p>
