@@ -74,7 +74,7 @@
 <a href="https://kaggle.com/wyctor fogos da rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wyctor fogos da rocha" height="30" width="40" /></a>
 <a href="https://instagram.com/wyctor.fogos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyctor.fogos" height="30" width="40" /></a>
 <a> Discord username: wyctor.fogos </a>
-<a href="https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=pt-BR" align="center" src="https://www.google.com/search?client=ubuntu&hs=RYs&sca_esv=56c33dbfb6047401&channel=fs&q=google+academico+icon&udm=2&fbs=AEQNm0AuaLfhdrtx2b9ODfK0pnmi046uB92frSWoVskpBryHTvXAcQd7vp80ISgpQqOrJlJ1fF0j5Y1X9xOSWf9RFNq3D1moQ5pTc8Gm9AuuY4ZU6IOdSOO6ptdcapu431yL47Fm86adRjpRCJX_LlGKWT_Veawz_E7rfPRLox4bJlmhXz_Tgant9BgAsvgp21tnxi7oPb8zv973KTGX4nZkBCyCv5VtUg&sa=X&ved=2ahUKEwj4uM-jpOGKAxVkLrkGHaKmD0kQtKgLegQIDxAB&biw=1793&bih=938&dpr=1#vhid=FxeMrND3aWEjLM&vssid=mosaic"> Google Academic </a>
+<a href="https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=pt-BR" align="center" src="https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg> Google Academic </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact" alt="wyctorfogos" /></p>
