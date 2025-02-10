@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **In English my name can be translated as "fire from the rock"**
 
-
 <h3 align="left">Projects:</h3>
 <ul>
   <li>
