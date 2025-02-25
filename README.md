@@ -41,10 +41,10 @@
 <h3 align="left">Academic Projects:</h3>
 <ul>
   <li>
-    <b><a href="https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas">Análise de sistemas: introdução ao funcionamento de sistemas</a></b>: Fundamentos da Análise de Sistemas: Exploramos os princípios básicos da análise de sistemas, desde a definição de sistema até a importância da modelagem e da documentação.
+    <b><a href="https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas">Systems Analysis: Introduction to System Functioning</a></b>: Fundamentals of Systems Analysis: We explore the basic principles of systems analysis, from the definition of a system to the importance of modeling and documentation.
   </li>
   <li>
-    <b><a href="https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas">Introdução ao planejamento e controle da produção: conceitos e ferramentas</a></b>: Material de apoio à disciplina de Planejamento e Controle da Produção para o curso técnico de Logística.
+    <b><a href="https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas">Introduction to Production Planning and Control: Concepts and Tools</a></b>: Support material for the Production Planning and Control course in the Logistics technical program.
   </li>
   <li>
     <b><a href="https://ieeexplore.ieee.org/document/10459929">Uso de IA no na construção civil</a></b>: Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study.
