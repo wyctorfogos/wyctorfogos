@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyctorfogos" alt="wyctorfogos" /></a> </p>
 
-- 🌱 I’m currently learning **Multimodals models, computer vision, AI, and medicine**
+- 🌱 I’m currently learning **Multimodal models, computer vision, AI, and medicine**
 
 - 💬 Ask me about **python, javascript, AI, ML, TensorFlow, PyTorch, and computer vision**
 
@@ -16,13 +16,13 @@
 <h3 align="left">Projects:</h3>
 <ul>
   <li>
-    <b><a>Clothes detection: A simple service based on docker support to detect different types of clothes as requested by its REST API </a></b>
+    <b><a>Clothes detection: A simple service based on Docker support to detect different types of clothes as requested by its REST API </a></b>
   </li>
   <li>
-    <b><a>Chatbot: A simple service based on docker support to put on air the chatbot service </a></b>
+    <b><a>Chatbot: A simple service based on Docker support to put on air the chatbot service </a></b>
   </li>
   <li>
-    <b><a href="https://youtu.be/5-tAZy62vCY">Safe vestiments detection: A security supervisor tool to detect if the worker is safe or not</a></b>
+    <b><a href="https://youtu.be/5-tAZy62vCY">Safe vestments detection: A security supervisor tool to detect if the worker is safe or not</a></b>
   </li>
    <li>
     <b><a>JWT authentication API: A security API service to get, register (on a PostgreSQL service) and invalidate the JWT token.</a></b>
@@ -34,7 +34,7 @@
     <a href="https://github.com/wyctorfogos/Interface_test_Crack_concrete_using_.git"> Concrete crack recognition: Concrete crack's model classifier and interface</a>
   </li>
   <li>
-     <a href="https://github.com/wyctorfogos/Crop-faces-using-MTCNN"> Crop human faces using MTCNN: a micros-service (docker) to detect, crop, and process the faces</a>
+     <a href="https://github.com/wyctorfogos/Crop-faces-using-MTCNN"> Crop human faces using MTCNN: a microservice (docker) to detect, crop, and process the faces</a>
   </li>
   
 </ul>
