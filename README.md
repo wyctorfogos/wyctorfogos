@@ -76,7 +76,6 @@
 <a href="https://linkedin.com/in/wyctor fogos da rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyctor fogos da rocha" height="30" width="40" /></a>
 <a href="https://kaggle.com/wyctor fogos da rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wyctor fogos da rocha" height="30" width="40" /></a>
 <a href="https://instagram.com/wyctor.fogos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wyctor.fogos" height="30" width="40" /></a>
-<a> Discord username: wyctor.fogos </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact" alt="wyctorfogos" /></p>
