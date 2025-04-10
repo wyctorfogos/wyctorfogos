@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Multimodal models, computer vision, AI, and medicine**
 
-- 💬 Ask me about **python, javascript, AI, ML, TensorFlow, PyTorch, and computer vision**
+- 💬 Ask me about **Python, JavaScript, AI, ML, TensorFlow, PyTorch, and computer vision**
 
 - 📫 How to reach me **wyctor.fogos@gmail.com**
 
