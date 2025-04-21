@@ -28,7 +28,7 @@
     <b><a>JWT authentication API: A security API service to get, register (on a PostgreSQL service), and invalidate the JWT token.</a></b>
    </li>
   <li>
-    <a>License-Plate-Reader: An image pre-processer to read and recognize license plates' digits</a>
+    <a>License-Plate-Reader: An image preprocessor to read and recognize license plates' digits</a>
   </li>
   <li>
     <a href="https://github.com/wyctorfogos/Interface_test_Crack_concrete_using_.git"> Concrete crack recognition: Concrete crack's model classifier and interface</a>
