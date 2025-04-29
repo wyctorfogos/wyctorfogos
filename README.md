@@ -72,11 +72,19 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/wyctorfogosdar)  
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/wyctorfogos)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/wyctor.fogos)
+<p align="left">
+  <a href="https://linkedin.com/in/wyctorfogosdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://kaggle.com/wyctorfogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40"/></a>
+  <a href="https://instagram.com/wyctor.fogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
+</p>
 
 ---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact)  
+![Stats](https://github-readme-stats.vercel.app/api?username=wyctorfogos&show_icons=true&locale=en)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyctorfogos)
 
 ## 📈 GitHub Stats
 
