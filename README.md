@@ -85,9 +85,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=wyctorfogos&show_icons=true&locale=en)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyctorfogos)
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=wyctorfogos&show_icons=true&locale=en)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyctorfogos)
