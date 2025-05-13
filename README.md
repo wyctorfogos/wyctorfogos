@@ -39,7 +39,7 @@
   Fundamentals of systems analysis, modeling, and documentation.
 
 - **[Introduction to Production Planning and Control](https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas)**  
-  Course support material for logistics technical program.
+  Course support material for the logistics technical program.
 
 - **[Uso de IA na Construção Civil](https://ieeexplore.ieee.org/document/10459929)**  
   Benchmark study on anomaly detection in civil structures using machine learning.
