@@ -67,6 +67,7 @@
 **Web & Backend:** HTML5, CSS, Django, Flask, Nginx  
 **Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Pandas, Seaborn, MATLAB
 **DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman  
+
 ---
 
 ## 📫 Connect with me
