@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wyctor
 
-### A passionate backend developer, data scientist, and data analyst from Brazil
+### A passionate backend developer, data scientist, data analyst, and judicial analyst (AI) from Brazil.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wyctorfogos&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wyctorfogos)
