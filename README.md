@@ -1,6 +1,6 @@
 # Hi 👋, I'm Wyctor
 
-### A passionate backend developer, data scientist, data analyst, and judicial analyst (AI) from Brazil.
+### A passionate backend developer, data scientist, data analyst, AI researcher/developer, and judicial analyst (AI) from Brazil.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wyctorfogos&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wyctorfogos)
@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Projects
-- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database, but the user can delete it without losing their registration. The last upgrade can read and then analyze a PDF file as per the user's request to the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
+- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The last upgrade can read and then analyze a PDF file as per the user's request to the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
 - **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
 - **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
 - **Safe Vestments Detection**: A security supervisor tool to verify the proper use of safety gear. [Watch Demo](https://youtu.be/5-tAZy62vCY)  
