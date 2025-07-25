@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wyctorfogos&label=Profile%20views&color=0e75b6&style=flat)  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wyctorfogos)
 
-🌱 I’m currently learning **multimodal models**, **computer vision**, **AI**, **LLM**, **VLM**, **Teleheabilitation** and **Telemedicine**  
+🌱 I’m currently learning **multimodal models**, **computer vision**, **AI**, **NLP**, **LLM**, **VLM**, **Teleheabilitation** and **Telemedicine**  
 💬 Ask me about **Python**, **JavaScript**, **AI**, **ML**, **TensorFlow**, **PyTorch**, and **Computer Vision**  
 📫 How to reach me: [wyctor.fogos@gmail.com](mailto:wyctor.fogos@gmail.com)  
 ⚡ Fun fact: In English, my name can be translated as “fire from the rock.”
@@ -21,7 +21,7 @@
 ---
 
 ## 🚀 Projects
-- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The last upgrade can read and then analyze a PDF file as per the user's request to the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
+- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The last upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
 - **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
 - **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
 - **Safe Vestments Detection**: A security supervisor tool to verify the proper use of safety gear. [Watch Demo](https://youtu.be/5-tAZy62vCY)  
