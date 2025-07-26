@@ -50,13 +50,16 @@
   Innovative approaches to inventory optimization.
 
 - **[Uso de IA na Indústria Brasileira](https://repositorio.ifes.edu.br/handle/123456789/3734)**  
-  Literature review on AI applications in Brazilian industry.
+  Literature review on AI applications in the Brazilian industry.
+
+- **Uso de GAN para melhora da detecção de objetos em imagens aéreas**
+  International Conference IEEE - ICECCME 2025
 
 - **[Diagnóstico e Reabilitação com Realidade Virtual](https://doi.org/10.1016/j.artmed.2023.102612)**  
   VR system for diagnosis and rehabilitation of lower-limb amputees.
 
 - **[Gait Movement Recognition using CNN & StarRGB](https://doi.org/10.1109/ICECCME52200.2021.9590936)**  
-  Space-time information condensation technique for remote physiotherapy.
+  Space-Time Information Condensation Technique for Remote Physiotherapy
 
 - **[Automatic Lighting Control System](https://sodebras.com.br/edicoes/N163.pdf)**  
   Lighting automation based on presence sensors and Bluetooth.
