@@ -6,7 +6,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wyctorfogos)
 
 🌱 I’m currently learning **multimodal models**, **computer vision**, **AI**, **NLP**, **LLM**, **VLM**, **Teleheabilitation** and **Telemedicine**  
-💬 Ask me about **Python**, **JavaScript**, **AI**, **ML**, **TensorFlow**, **PyTorch**, and **Computer Vision**  
+💬 Ask me about **Python**, **JavaScript**, **AI**, **ML**, **TensorFlow**, **PyTorch**, **NLTK**, and **Computer Vision**  
 📫 How to reach me: [wyctor.fogos@gmail.com](mailto:wyctor.fogos@gmail.com)  
 ⚡ Fun fact: In English, my name can be translated as “fire from the rock.”
 
