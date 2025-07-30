@@ -52,8 +52,8 @@
 - **[Uso de IA na Indústria Brasileira](https://repositorio.ifes.edu.br/handle/123456789/3734)**  
   Literature review on AI applications in the Brazilian industry.
 
-- **Uso de GAN para melhora da detecção de objetos em imagens aéreas**
-  International Conference IEEE - ICECCME 2025
+- **[Uso de GAN para melhora da detecção de objetos em imagens aéreas](Super-Resolution GAN Improving YOLO's Performance Benchmark)**
+  International Conference IEEE - ICECCME 2025 
 
 - **[Diagnóstico e Reabilitação com Realidade Virtual](https://doi.org/10.1016/j.artmed.2023.102612)**  
   VR system for diagnosis and rehabilitation of lower-limb amputees.
@@ -70,7 +70,7 @@
 
 **Languages & Frameworks:** Python, JavaScript (Node.js, Express), C, SQL (PostgreSQL, MySQL)  
 **Web & Backend:** HTML5, CSS, Django, Flask, Nginx  
-**Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Pandas, Seaborn, MATLAB
+**Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Matplotlib, Pandas, Seaborn, MATLAB
 **DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman  
 
 ---
