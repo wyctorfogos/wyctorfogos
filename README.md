@@ -51,7 +51,7 @@
 - **[Uso de IA na Indústria Brasileira](https://repositorio.ifes.edu.br/handle/123456789/3734)**  
   Literature review on AI applications in the Brazilian industry.
 
-- **[Uso de GAN para melhora da detecção de objetos em imagens aéreas](Super-Resolution GAN Improving YOLO's Performance Benchmark)**
+- Uso de GAN para melhora da detecção de objetos em imagens aéreas(Super-Resolution GAN Improving YOLO's Performance Benchmark)
   International Conference IEEE - ICECCME 2025 
 
 - **[Diagnóstico e Reabilitação com Realidade Virtual](https://doi.org/10.1016/j.artmed.2023.102612)**  
