@@ -16,6 +16,7 @@
 - Building multimodal machine learning systems for healthcare
 - Researching cross-attention mechanisms in vision-language models
 - The impact of VLM analysis of skin lesion images.
+- Study of juridic sentences' classification process (Embedding sentences for juridic text classification).
 
 ---
 
