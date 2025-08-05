@@ -53,7 +53,7 @@
   Literature review on AI applications in the Brazilian industry.
 
 - Uso de GAN para melhora da detecção de objetos em imagens aéreas(Super-Resolution GAN Improving YOLO's Performance Benchmark)
-  International Conference IEEE - ICECCME 2025 
+  International Conference IEEE - ICECCME 2025 and ICMLA 2022
 
 - **[Diagnóstico e Reabilitação com Realidade Virtual](https://doi.org/10.1016/j.artmed.2023.102612)**  
   VR system for diagnosis and rehabilitation of lower-limb amputees.
