@@ -69,9 +69,9 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** Python, JavaScript (Node.js, Express), C, SQL (PostgreSQL, MySQL)  
-**Web & Backend:** HTML5, CSS, Django, Flask, Nginx  
-**Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Matplotlib, Pandas, Seaborn, MATLAB
-**DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman  
+**Web & Backend:** HTML5, CSS, FastAPI, Flask, JWT, Nginx   
+**Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Matplotlib, Pandas, Seaborn
+**DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman, AZURE
 
 ---
 
