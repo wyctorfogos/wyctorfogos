@@ -63,13 +63,12 @@
 
 - **[Automatic Lighting Control System](https://sodebras.com.br/edicoes/N163.pdf)**  
   Lighting automation based on presence sensors and Bluetooth.
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:** Python, JavaScript (Node.js, Express), C, SQL (PostgreSQL, MySQL)  
-**Web & Backend:** HTML5, CSS, FastAPI, Flask, JWT, Nginx   
+**Web & Backend:** HTML5, CSS, FastAPI, Flask, JWT, Nginx (Reverse proxy)
 **Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Matplotlib, Pandas, Seaborn
 **DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman, AZURE
 
@@ -89,7 +88,6 @@
 ---
 
 ## 📈 GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact)  
 ![Stats](https://github-readme-stats.vercel.app/api?username=wyctorfogos&show_icons=true&locale=en)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyctorfogos)
