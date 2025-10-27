@@ -22,6 +22,7 @@
 
 ## 🚀 Projects
 - **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The last upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
+- **NER**: Recognition of Entity using a BERT-based model to anonymize textual sentences. [NER](https://github.com/wyctorfogos/NER.git)
 - **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
 - **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
 - **Safe Vestments Detection**: A security supervisor tool to verify the proper use of safety gear. [Watch Demo](https://youtu.be/5-tAZy62vCY)  
