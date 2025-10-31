@@ -38,6 +38,9 @@
 
 ## 📚 Academic Projects
 
+**[LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input.]**
+  Usage of multimodal models for skin lesion recognition.
+
 - **[Systems Analysis: Introduction to System Functioning](https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas)**  
   Fundamentals of systems analysis, modeling, and documentation.
 
