@@ -38,7 +38,11 @@
 
 ## 📚 Academic Projects
 
-**[LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input.]**
+
+- [MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://github.com/life-ufes/metablock-se)
+  Usage of patient metadata (sentence text) on VLM models to classify skin lesions.
+  
+- **[LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input.]**
   Usage of multimodal models for skin lesion recognition.
 
 - **[Systems Analysis: Introduction to System Functioning](https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas)**  
