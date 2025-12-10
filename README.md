@@ -39,7 +39,7 @@
 ## 📚 Academic Projects
 
 
-- **[MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://github.com/life-ufes/metablock-se)**
+- **[MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://ieeexplore.ieee.org/document/11284542)**
   Usage of patient metadata (sentence text) on VLM models to classify skin lesions.
   
 - **[LiwTERM-r A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input.]**
