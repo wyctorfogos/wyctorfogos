@@ -50,7 +50,7 @@
 - **[Introduction to Production Planning and Control](https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas)**  
   Course support material for the logistics technical program.
 
-- **[Uso de IA na Construção Civil](https://ieeexplore.ieee.org/document/10459929)**  
+- **[Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study](https://ieeexplore.ieee.org/document/10459929)**  
   Benchmark study on anomaly detection in civil structures using machine learning.
 
 - **[Gestão de Estoques](https://www.atenaeditora.com.br/catalogo/ebook/gestao-de-estoques)**  
@@ -62,7 +62,7 @@
 - Uso de GAN para melhora da detecção de objetos em imagens aéreas(Super-Resolution GAN Improving YOLO's Performance Benchmark)
   International Conference IEEE - ICECCME 2025 and ICMLA 2022
 
-- **[Diagnóstico e Reabilitação com Realidade Virtual](https://doi.org/10.1016/j.artmed.2023.102612)**  
+- **[A diagnostic room for lower limb amputee based on virtual reality and an intelligent space](https://doi.org/10.1016/j.artmed.2023.102612)**  
   VR system for diagnosis and rehabilitation of lower-limb amputees.
 
 - **[Gait Movement Recognition using CNN & StarRGB](https://doi.org/10.1109/ICECCME52200.2021.9590936)**  
