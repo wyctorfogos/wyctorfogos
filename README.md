@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 Currently Working On
-
+- LLM application for a juridical tool for criminal case resolutions
 - Building multimodal machine learning systems for healthcare
 - Researching cross-attention mechanisms in vision-language models
 - The impact of VLM analysis of skin lesion images.
