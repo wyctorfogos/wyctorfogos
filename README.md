@@ -37,9 +37,11 @@
 ---
 
 ## 📚 Academic Projects
+- **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](Accepted for poster presenteation in the IJCNN - 2026)**
 
+- **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
+ 
 - **[Benchmarking SRGAN-Upscaled YOLO for Enhanced Object Detection in Aerial Imagery](https://ieeexplore.ieee.org/document/11277691)**
-    This paper addresses object detection in the domain of aerial images, a challenge due to the large diversity of images concerning the image quality and the varying sizes of objects within them. A training and evaluation strategy based on a Super-Resolution Adversarial Generator Network (SRGAN) model is proposed. The latter generates several new images of higher quality than some of the images available in the dataset to replace them. This strategy increases the learning of the model to better detect objects at a great range of scale sizes, which increases the performance of the YOLO model family. Our extensive benchmarking study on the DOTA v1.5 dataset compares ten YOLO architectures across three evaluation scenarios at input resolutions of 416×416 and 640×640 pixels. Experimental results demonstrate that YOLOv5s-transformer trained on SRGAN-upscaled images (scale factor 2) achieves superior detection performance, with up to a 3.07% absolute increase in mAP0.5 and a 2.29% gain in mAP0.5:0.95, respectively, when compared to conventional training approaches. This study establishes benchmarks for future comparisons with emerging YOLO variants and alternative super-resolution methods.
 
 - **[MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://ieeexplore.ieee.org/document/11284542)**
   Usage of patient metadata (sentence text) on VLM models to classify skin lesions.
