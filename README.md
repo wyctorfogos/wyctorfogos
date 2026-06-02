@@ -37,6 +37,8 @@
 ---
 
 ## 📚 Academic Projects
+- **[PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis](https://www.nature.com/articles/s41598-026-47756-4)**
+
 - **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](Accepted for poster presenteation in the IJCNN - 2026)**
 
 - **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
