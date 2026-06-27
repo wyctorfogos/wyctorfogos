@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Wyctor
 
 ### A passionate backend developer, data scientist, data analyst, AI researcher/developer, and judicial analyst (AI) from Brazil.
@@ -39,7 +40,7 @@
 ## 📚 Academic Projects
 - **[The more the merrier: the use of verbose metadata description in the multimodal classification of skin lesions](https://sol.sbc.org.br/index.php/sbcas/article/view/42752)** 
 - **[PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis](https://www.nature.com/articles/s41598-026-47756-4)**
-- **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](Accepted for poster presenteation in the IJCNN - 2026)**
+- **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](Accepted and presented at IJCNN - 2026)**
 - **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
 - **[Benchmarking SRGAN-Upscaled YOLO for Enhanced Object Detection in Aerial Imagery](https://ieeexplore.ieee.org/document/11277691)**
 - **[MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://ieeexplore.ieee.org/document/11284542)**
