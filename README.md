@@ -84,6 +84,8 @@
 ## 📫 Connect with me
 
 <p align="left">
+  
+  <a href="https://wyctor.com.br/" target="_blank" rel="noreferrer"">
   <a href="https://linkedin.com/in/wyctorfogosdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://kaggle.com/wyctorfogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40"/></a>
   <a href="https://instagram.com/wyctor.fogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
