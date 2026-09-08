@@ -16,14 +16,14 @@
 - LLM application for a juridical tool for criminal case resolutions
 - Building multimodal machine learning systems for healthcare
 - Researching cross-attention mechanisms in vision-language models
-- The impact of VLM analysis of skin lesion images.
+- The impact of VLM analysis of skin lesion images
 - Study of juridic sentences' classification process (Embedding sentences for juridic text classification).
 
 ---
 
 ## 🚀 Projects
-- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The last upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
-- **NER**: Recognition of Entity using a BERT-based model to anonymize textual sentences. [NER](https://github.com/wyctorfogos/NER.git)
+- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with a TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The latest upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
+- **NER**: Recognition of entities using a BERT-based model to anonymize textual sentences. [NER](https://github.com/wyctorfogos/NER.git)
 - **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
 - **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
 - **Safe Vestments Detection**: A security supervisor tool to verify the proper use of safety gear. [Watch Demo](https://youtu.be/5-tAZy62vCY)  
@@ -38,6 +38,7 @@
 ---
 
 ## 📚 Academic Projects
+- **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
 - **[The more the merrier: the use of verbose metadata description in the multimodal classification of skin lesions](https://sol.sbc.org.br/index.php/sbcas/article/view/42752)** 
 - **[PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis](https://www.nature.com/articles/s41598-026-47756-4)**
 - **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/kM46h-ijcnn_pap4428s2.pdf)**
