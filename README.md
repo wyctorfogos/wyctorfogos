@@ -38,7 +38,7 @@
 ---
 
 ## 📚 Academic Projects
-- **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
+- **[LLM-Driven Neural Architecture Search for Multimodal Skin Lesion Classification under Deployment Constraints](https://sibgrapi.sbc.org.br/2026/)**
 - **[The more the merrier: the use of verbose metadata description in the multimodal classification of skin lesions](https://sol.sbc.org.br/index.php/sbcas/article/view/42752)** 
 - **[PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis](https://www.nature.com/articles/s41598-026-47756-4)**
 - **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/kM46h-ijcnn_pap4428s2.pdf)**
