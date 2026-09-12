@@ -22,7 +22,8 @@
 ---
 
 ## 🚀 Projects
-- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with a TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, the history of user conversations is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The latest upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
+- **Sentence text anonymization (PII)**: A PyPI lib (public library) to anonymize sentence text in Brazilian Portuguese, English, and Fench language. [anon-lib](https://pypi.org/project/anon-lib/).
+- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with a TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, user conversation history is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The latest upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
 - **NER**: Recognition of entities using a BERT-based model to anonymize textual sentences. [NER](https://github.com/wyctorfogos/NER.git)
 - **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
 - **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
