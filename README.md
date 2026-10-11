@@ -1,104 +1,64 @@
+# Wyctor Fogos da Rocha
 
-# Hi 👋, I'm Wyctor
+**AI / ML Engineer** — from research to production.
 
-### A passionate backend developer, data scientist, data analyst, AI researcher/developer, and judicial analyst (AI) from Brazil.
+I build LLM-based systems and multimodal pipelines that run in production, with end-to-end MLOps: fine-tuning, containerised serving, monitoring. My peer-reviewed research (incl. *Scientific Reports*, *IEEE JBHI*) grounds the engineering in statistical rigour.
 
-![Profile Views](https://komarev.com/ghpvc/?username=wyctorfogos&label=Profile%20views&color=0e75b6&style=flat)  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=wyctorfogos)
+Currently at **Tribunal de Justiça do Espírito Santo (TJES)**, where I built [LuzIA](https://wyctor.com.br/experience) — an LLM-powered document analysis system that cut ruling review from 10 to 2 minutes and was selected by Brazil's National Council of Justice (CNJ) for nationwide rollout.
 
-🌱 I’m currently learning **multimodal models**, **computer vision**, **AI**, **NLP**, **LLM**, **VLM**, **Teleheabilitation** and **Telemedicine**  
-💬 Ask me about **Python**, **JavaScript**, **AI**, **ML**, **TensorFlow**, **PyTorch**, **NLTK**, and **Computer Vision**  
-📫 How to reach me: [wyctor](mailto:wyctor.fogos@gmail.com)  
-⚡ Fun fact: In English, my name can be translated as “fire from the rock.
----
-
-## 🧠 Currently Working On
-- LLM application for a juridical tool for criminal case resolutions
-- Building multimodal machine learning systems for healthcare
-- Researching cross-attention mechanisms in vision-language models
-- The impact of VLM analysis of skin lesion images
-- Study of juridic sentences' classification process (Embedding sentences for juridic text classification).
+🌐 [wyctor.com.br](https://wyctor.com.br) · [LinkedIn](https://www.linkedin.com/in/wyctorfogos/) · [Google Scholar](https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1909-7274)
 
 ---
 
-## 🚀 Projects
-- **Sentence text anonymization (PII)**: A PyPI lib (public library) to anonymize sentence text in Brazilian Portuguese, English, and Fench language. [anon-lib](https://pypi.org/project/anon-lib/).
-- **Chatbot integrated with TELEGRAM bot**: A simple chatbot integrated with a TELEGRAM bot with support for English, French, Spanish, and Portuguese. Additionally, user conversation history is stored in a MongoDB (NoSQL) database; however, users can delete it without losing their registration. The latest upgrade can read and then analyze a PDF file according to the user's request for the LLM model. (https://github.com/wyctorfogos/telegram-chatbot-and-object-description)
-- **NER**: Recognition of entities using a BERT-based model to anonymize textual sentences. [NER](https://github.com/wyctorfogos/NER.git)
-- **Clothes Detection**: A Dockerized microservice that detects different types of clothing via a REST API.  
-- **Chatbot Service**: A containerized chatbot deployment for real-time user interaction.  
-- **Safe Vestments Detection**: A security supervisor tool to verify the proper use of safety gear. [Watch Demo](https://youtu.be/5-tAZy62vCY)  
-- **JWT Authentication API**: Secure service for issuing, registering (PostgreSQL), and invalidating JWT tokens.
-- **Dijkstra algorithm**: An application of Dijkstra. (https://github.com/wyctorfogos/Dijkstra-algo-project-data-structure.git)
-- **License Plate Reader**: Image preprocessor that reads and recognizes license plate digits.  
-- **Concrete Crack Recognition**: Model and interface for identifying cracks in concrete structures.  
-- **Crop Faces using MTCNN**: Docker microservice to detect, crop, and preprocess human faces.  
+## What I'm working on
 
-> Explore more: [My Repositories](https://github.com/wyctorfogos?tab=repositories)
+- **LLM systems for the judiciary** — multi-stage NLP pipelines (extraction, cross-encoder re-ranking, hybrid scoring) for legal document classification, served with FastAPI + RabbitMQ + vLLM + Docker.
+- **Multimodal medical AI** — gated cross-attention architectures for skin lesion classification, published at IJCNN 2026 (IEEE WCCI) and in Scientific Reports (Nature Portfolio).
+- **LLM-driven neural architecture search** — using local LLMs as NAS controllers under deployment constraints (SIBGRAPI 2026).
 
 ---
 
-## 📚 Academic Projects
-- **[LLM-Driven Neural Architecture Search for Multimodal Skin Lesion Classification under Deployment Constraints](https://sibgrapi.sbc.org.br/2026/)**
-- **[The more the merrier: the use of verbose metadata description in the multimodal classification of skin lesions](https://sol.sbc.org.br/index.php/sbcas/article/view/42752)** 
-- **[PRISM: a clinically interpretable stepwise framework for multimodal skin cancer diagnosis](https://www.nature.com/articles/s41598-026-47756-4)**
-- **[RG-DermNet: A Multimodal Attention-Based Model with Residual Block Usage for Skin Lesion Classification](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/kM46h-ijcnn_pap4428s2.pdf)**
-- **[LiwTERM-r: A Revised Lightweight Transformer-based Model for Multimodal Skin Lesion Detection Robust to Incomplete Input](https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5871)**
-- **[Benchmarking SRGAN-Upscaled YOLO for Enhanced Object Detection in Aerial Imagery](https://ieeexplore.ieee.org/document/11277691)**
-- **[MetaBlock-SE: a method to deal with missing metadata in multimodal skin cancer classification](https://ieeexplore.ieee.org/document/11284542)**
-  Usage of patient metadata (sentence text) on VLM models to classify skin lesions.
-- **[Systems Analysis: Introduction to System Functioning](https://atenaeditora.com.br/catalogo/ebook/analise-de-sistemas-introducao-ao-funcionamento-de-sistemas)**  
-  Fundamentals of systems analysis, modeling, and documentation.
-- **[Introduction to Production Planning and Control](https://atenaeditora.com.br/catalogo/ebook/introducao-ao-planejamento-e-controle-da-producao-conceitos-e-ferramentas)**  
-  Course support material for the logistics technical program.
+## Featured projects
 
-- **[Detection of Anomalies in Civil Structures Using Machine Learning Models: Benchmark Study](https://ieeexplore.ieee.org/document/10459929)**  
-  Benchmark study on anomaly detection in civil structures using machine learning.
+| Project | What it does | Links |
+|---|---|---|
+| **anon-lib** | PII detection & masking for pt-BR and English — hybrid regex + local LLM, 21 pt-BR / 7 EN entity types, first library to support the 2026 alphanumeric CNPJ. | [PyPI](https://pypi.org/project/anon-lib/) · [GitHub](https://github.com/wyctorfogos/anon-lib) |
+| **RAG-DOCS-with-PGVECTOR** | Retrieval-augmented generation over documents, embeddings stored in Postgres via pgvector. | [GitHub](https://github.com/wyctorfogos/RAG-DOCS-with-PGVECTOR) |
+| **RG-DermNet** | Residual gated-attention multimodal fusion for skin lesion classification — AUC 0.95 ± 0.01 on PAD-UFES-20. | [Paper (IJCNN 2026)](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/kM46h-ijcnn_pap4428s2.pdf) |
+| **LLM-as-NAS-controller** | Neural architecture search driven by a local LLM served through Ollama. | [GitHub](https://github.com/wyctorfogos/llm-as-nas-controller) |
+| **Fine-tuning Gemma 3 1B** | LoRA fine-tuning with Unsloth, exported for vLLM inference. | [GitHub](https://github.com/wyctorfogos/Fine-tunning-Gemma3-1b-unsloth) |
+| **NER** | Named entity recognition with a BERT-based model for text anonymisation. | [GitHub](https://github.com/wyctorfogos/NER) |
 
-- **[Gestão de Estoques](https://www.atenaeditora.com.br/catalogo/ebook/gestao-de-estoques)**  
-  Innovative approaches to inventory optimization.
-
-- **[Uso de IA na Indústria Brasileira](https://repositorio.ifes.edu.br/handle/123456789/3734)**  
-  Literature review on AI applications in the Brazilian industry.
-
-- Uso de GAN para melhora da detecção de objetos em imagens aéreas(Super-Resolution GAN Improving YOLO's Performance Benchmark)
-  International Conference IEEE - ICECCME 2025 and ICMLA 2022
-
-- **[A diagnostic room for lower limb amputee based on virtual reality and an intelligent space](https://doi.org/10.1016/j.artmed.2023.102612)**  
-  VR system for diagnosis and rehabilitation of lower-limb amputees.
-
-- **[Gait Movement Recognition using CNN & StarRGB](https://doi.org/10.1109/ICECCME52200.2021.9590936)**  
-  Space-Time Information Condensation Technique for Remote Physiotherapy
-
-- **[Automatic Lighting Control System](https://sodebras.com.br/edicoes/N163.pdf)**  
-  Lighting automation based on presence sensors and Bluetooth.
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:** Python, JavaScript (Node.js, Express), C, SQL (PostgreSQL, MySQL)  
-**Web & Backend:** HTML5, CSS, FastAPI, Flask, JWT, Nginx (Reverse proxy)
-**Data & ML:** TensorFlow, PyTorch, scikit-learn, OpenCV, Matplotlib, Pandas, Seaborn
-**DevOps & Tools:** Docker, Kafka, RabbitMQ, Grafana, Redis, MongoDB, Git, Postman, AZURE
+> More repos: [github.com/wyctorfogos?tab=repositories](https://github.com/wyctorfogos?tab=repositories)
 
 ---
 
-## 📫 Connect with me
+## Selected publications
 
-<p align="left">
-  
-  <a href="https://wyctor.com.br/" target="_blank" rel="noreferrer"">
-  <a href="https://linkedin.com/in/wyctorfogosdar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://kaggle.com/wyctorfogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40"/></a>
-  <a href="https://instagram.com/wyctor.fogos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://discordapp.com/users/wyctor.fogos" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
+- **PRISM** — clinically interpretable stepwise framework for multimodal skin cancer diagnosis. *Scientific Reports* (Nature Portfolio), 2026. [DOI](https://doi.org/10.1038/s41598-026-47756-4)
+- **RG-DermNet** — multimodal attention-based model for skin lesion classification. *IJCNN 2026* (IEEE WCCI). [Preprint](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/kM46h-ijcnn_pap4428s2.pdf)
+- **MetaBlock-SE** — handling missing metadata via sentence embeddings. *IEEE JBHI*, 2025. [DOI](https://doi.org/10.1109/JBHI.2025.3612837)
+- **LLM-driven NAS** — architecture search under deployment constraints. *SIBGRAPI 2026*. [GitHub](https://github.com/wyctorfogos/llm-as-nas-controller)
+
+Full list: [wyctor.com.br/publications](https://wyctor.com.br/publications)
 
 ---
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wyctorfogos&show_icons=true&locale=en&layout=compact)  
-![Stats](https://github-readme-stats.vercel.app/api?username=wyctorfogos&show_icons=true&locale=en)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyctorfogos)
+## Tech stack
+
+**Languages:** Python (production-level), SQL, JavaScript  
+**ML & LLM:** PyTorch, Hugging Face Transformers, LLM fine-tuning (LoRA/PEFT), RAG, cross-encoders, vLLM, Ollama, OpenCV, MLflow  
+**Backend & infra:** FastAPI, Flask, gRPC, Docker, RabbitMQ, Kafka, PostgreSQL, Azure, Git  
+**Data:** PySpark, Pandas, NumPy
+
+---
+
+## Education
+
+- **M.Sc., Informatics — Data Science and AI** · Federal University of Espírito Santo (UFES), 2026  
+- **Télécom SudParis, France** · M2 TRIED coursework, BRAFITEC exchange, 2021–2022 (63 ECTS)  
+- **B.Sc., Electrical Engineering** · Federal Institute of Espírito Santo (IFES), 2023
+
+---
+
+📫 **wyctor.fogos@gmail.com** · Based in Vitória, Brazil · Trilingual: Portuguese · English · French
