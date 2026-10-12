@@ -4,7 +4,7 @@
 
 I build LLM-based systems and multimodal pipelines that run in production, with end-to-end MLOps: fine-tuning, containerised serving, monitoring. My peer-reviewed research (incl. *Scientific Reports*, *IEEE JBHI*) grounds the engineering in statistical rigour.
 
-Currently at **Tribunal de Justiça do Espírito Santo (TJES)**, where I built [LuzIA](https://wyctor.com.br/experience) — an LLM-powered document analysis system that cut ruling review from 10 to 2 minutes and was selected by Brazil's National Council of Justice (CNJ) for nationwide rollout.
+Currently at **Tribunal de Justiça do Espírito Santo (TJES)**, where I built [LuzIA](https://wyctor.com.br/experience) — an LLM-powered document analysis system that cut ruling review from 10 to 2 minutes and was selected by Brazil's National Council of Justice (CNJ) for nationwide rollout[¹](https://www.tjes.jus.br/tjes-comemora-selo-judiciario-inovador-pela-solucao-tecnologica-luzia/).
 
 🌐 [wyctor.com.br](https://wyctor.com.br) · [LinkedIn](https://www.linkedin.com/in/wyctorfogos/) · [Google Scholar](https://scholar.google.com/citations?user=NGT_KVYAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-1909-7274)
 
